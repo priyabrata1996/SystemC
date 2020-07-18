@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <add.h path="C:/Users/Rocker/Desktop/Extra_study/SystemC/Problem1/add.h"/>
+  <test.h path="C:/Users/Rocker/Desktop/Extra_study/SystemC/Problem1/test.h"/>
+ </Headers>
+ <Sources>
+  <System.cpp path="C:/Users/Rocker/Desktop/Extra_study/SystemC/Problem1/System.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Rocker/Desktop/Extra_study/SystemC/Problem1/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>
