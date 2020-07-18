@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<SCBuilder_Project>
+ <Headers>
+  <tbtime.h path="C:/Users/Rocker/Desktop/Extra_study/SystemC/time_loosly_coupled/tbtime.h"/>
+  <timer.h path="C:/Users/Rocker/Desktop/Extra_study/SystemC/time_loosly_coupled/timer.h"/>
+ </Headers>
+ <Sources>
+  <tbtime.cpp path="C:/Users/Rocker/Desktop/Extra_study/SystemC/time_loosly_coupled/tbtime.cpp"/>
+  <timer.cpp path="C:/Users/Rocker/Desktop/Extra_study/SystemC/time_loosly_coupled/timer.cpp"/>
+  <up_counter.cpp path="C:/Users/Rocker/Desktop/Extra_study/SystemC/time_loosly_coupled/up_counter.cpp"/>
+ </Sources>
+ <Libraries/>
+ <RTL/>
+ <Scripts/>
+ <Text>
+  <CMakeLists.txt path="C:/Users/Rocker/Desktop/Extra_study/SystemC/time_loosly_coupled/CMakeLists.txt"/>
+ </Text>
+ <Settings/>
+</SCBuilder_Project>
